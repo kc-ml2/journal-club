@@ -13,6 +13,7 @@
   * Survey Paper
       * https://arxiv.org/pdf/1705.02801.pdf
       * 구체적인 알고리즘보다 개괄적인 아이디어, ML보다 Classical Idea 중심
+      * Section 3.3~3.6
   * GEMSEC
       * https://arxiv.org/pdf/1802.03997.pdf
       * Section 3 앞 부분 Loss function 부분이 Main
