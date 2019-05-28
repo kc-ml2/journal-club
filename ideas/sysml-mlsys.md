@@ -20,8 +20,7 @@
   * Learning Memory Access Patterns
     * https://arxiv.org/abs/1803.02329
 
-* Slides / posters from NIPS 2018
-  * https://www.dropbox.com/sh/3t3xnrwye7qkfb9/AACsNc1sRZgIGRyPw1WZ5Nfja?dl=0
+* [Slides / posters from NIPS 2018](https://www.dropbox.com/sh/3t3xnrwye7qkfb9/AACsNc1sRZgIGRyPw1WZ5Nfja?dl=0)
 
 * NIPS 2018 Workshops
   * ML for systems
