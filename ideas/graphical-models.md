@@ -1,5 +1,5 @@
 * Relevant chapters from Bishop.
-  * [Bishop-Ch13-summary.pdf](files/Bishop-Ch13-summary.pdf)
+  * [Bishop-Ch13-summary.pdf](../files/Bishop-Ch13-summary.pdf)
     * 찬연 서울대 스터디 자료
 * open-source libraries
   * Pyro
