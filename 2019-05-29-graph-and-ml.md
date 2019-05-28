@@ -20,3 +20,10 @@
 
 * DeepPath: A RL Method for Knowledge Graph Reasoning
    * https://arxiv.org/pdf/1707.06690.pdf
+   
+* 2019 Deep geometric learning workshop @ IPAM, UCLA
+  * https://github.com/kc-ml2/ipam-2019-dgl#bresson
+  * https://github.com/kc-ml2/ipam-2019-dgl#tang
+  * https://github.com/kc-ml2/ipam-2019-dgl#kipf
+  * https://github.com/kc-ml2/ipam-2019-dgl#niepert
+  * https://github.com/kc-ml2/ipam-2019-dgl#monti
