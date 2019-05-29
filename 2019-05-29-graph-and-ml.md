@@ -22,7 +22,7 @@
 * DeepPath: A RL Method for Knowledge Graph Reasoning
    * https://arxiv.org/pdf/1707.06690.pdf
    
-* Overall Survey Paper on Graph(논문이라기 보단 정말 내용들을 다 정리한 Paper)
+* Overall Survey Paper on Graph(논문이라기보단 정말 내용들을 다 정리한 Paper)
    * https://arxiv.org/pdf/1812.08434v1.pdf
    
 * 2019 Deep geometric learning workshop @ IPAM, UCLA
