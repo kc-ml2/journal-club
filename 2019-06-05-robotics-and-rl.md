@@ -4,7 +4,7 @@ Topic about the recent work on controlling Balldroid (spherical robot)
 
 Easy day with introduction to some robotics and the work on Balldroid
 
-### Few topics to read about. No papers! (not requried)
+### Few topics to read about. No papers! (not required)
 
 * Sperical Robot
 
