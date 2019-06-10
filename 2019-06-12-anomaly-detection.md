@@ -1,6 +1,6 @@
-# Anomaly Detectio
+# Anomaly Detection
 
-* Anormal Detection: A Survey
+* Anomaly Detection: A Survey
   * http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf
   * Surveys on classical approaches prior to deep learning
 
@@ -16,3 +16,6 @@
 
 * Deep One-Class Classification (Deep SVDD)
   * http://data.bit.uni-bonn.de/publications/ICML2018.pdf
+
+* Introduction to Statistical Pattern Recognition (Chapter 7 only) 
+  * https://doc.lagout.org/science/Artificial%20Intelligence/Pattern%20recognition/Introduction%20to%20Statistical%20Pattern%20Recognition%202nd%20Ed%20-%20%20Keinosuke%20Fukunaga.pdf
