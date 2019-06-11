@@ -23,5 +23,5 @@
   * https://doc.lagout.org/science/Artificial%20Intelligence/Pattern%20recognition/Introduction%20to%20Statistical%20Pattern%20Recognition%202nd%20Ed%20-%20%20Keinosuke%20Fukunaga.pdf
 
 * Deep Anomaly Detection Using Geometric Transformations
- * https://arxiv.org/abs/1805.10917
- * Current state-of-the-art in image anomaly detection
+  * https://arxiv.org/abs/1805.10917
+  * Current state-of-the-art in image anomaly detection
