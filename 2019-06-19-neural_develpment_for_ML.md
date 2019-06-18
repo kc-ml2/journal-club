@@ -2,8 +2,10 @@
 
 Goal : Understanding the brain and neuroscience to gain insight for ML
 
-* **Overview** : https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function 
-
+* **Overview**
+  - It is helpful if you look at : https://youtu.be/B0KbotSlJ-Q?t=459
+  - https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/overview-of-neuron-structure-and-function 
+ 
 * Types and Roles of neurons
   * Major types of neurons : https://www.tutor2u.net/psychology/reference/biopsychology-sensory-relay-and-motor-neurons
   
