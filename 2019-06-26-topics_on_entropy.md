@@ -7,7 +7,7 @@
 
 * Entropy Estimaion
   * There is no unbiased estimator of entropy
-    * Estimation of Entropy and Mutual Information
+    * Estimation of Entropy and Mutual Information - Appendix Pt.
       * https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf
   * In special condition, there exists an unbiased estimator of entropy
     * https://arxiv.org/pdf/1410.5002.pdf
