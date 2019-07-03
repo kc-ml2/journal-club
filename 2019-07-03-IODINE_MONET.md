@@ -6,3 +6,6 @@
 
 ## MONet
 * [paper](https://arxiv.org/abs/1901.11390)
+
+## Iterative Amortized 
+* [paper](https://arxiv.org/abs/1807.09356)
