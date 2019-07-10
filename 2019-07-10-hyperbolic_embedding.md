@@ -17,3 +17,4 @@ Recent literature about embeddings in hyperbolic space: what, why and how
 * Hyperbolic Embedding and Routing for Dynamic Graphs
   * From the proof that every finite, connected, undirected graph has a greedy embedding in two-dimensional hyperbolic space
   * http://cs-www.bu.edu/faculty/crovella/paper-archive/infocom09-hyperbolic.pdf
+  * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.449.5421&rep=rep1&type=pdf
