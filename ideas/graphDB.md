@@ -7,7 +7,8 @@
   * https://users.dcc.uchile.cl/~pbarcelo/wood.pdf
     * A list of queries that GraphDB should contain
     * pg. 4 - 9
-  * https://files.mtstatic.com/site_3362/25765/0?Expires=1563418691&Signature=heWiCd3oKVdB5YzcXTc1QwNc14-ZybKj8Zv46XYoSVcS9Geoa~pt94-h63Xip-DUcBhLAzQ3n9nutwPQakejiDGH-TMQKJD2DmYTD7p8AvNxUtM4nE3wAdJakqFsVNMNrNfS1bCwRJaFOacaI1kY-QwRmwptfMtGuD5IXZT9Htg_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA
+  * Neo4j Cypher cheat sheet
+    * https://gist.github.com/DaniSancas/1d5265fc159a95ff457b940fc5046887
     * Actual types of queires that Neo4j has
   * https://devhints.io/graphql
     * Actual types of queries that GraphQL has
