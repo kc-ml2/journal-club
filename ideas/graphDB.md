@@ -5,4 +5,5 @@
 
 * Type and properties of queries that GraphDB have
   * https://pdfs.semanticscholar.org/0f9b/b7d25477862558ba5491c4357e7b8fc65a16.pdf
+  * Old paper in 1994
   * pg.7-11
