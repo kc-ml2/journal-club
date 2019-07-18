@@ -11,3 +11,8 @@
     * Actual types of queires that Neo4j has
   * https://devhints.io/graphql
     * Actual types of queries that GraphQL has
+    
+  * https://github.com/Octavian-ai/clevr-graph
+    * Octavian's CLEVR Graph dataset for GQA(Graph-Query-Answering) Problems
+    * 11 types of queries they possess mostly match with one of the queries in actual GraphDB
+    * Seems to be a good starting point
