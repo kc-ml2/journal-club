@@ -1,7 +1,23 @@
 ## GraphDB domain knowledge
 
+* Overview Book
+  * https://neo4j.com/graph-databases-book/?ref=blog
+  * Link only. Don't need to retrieve the book.
+  * Chapter 6 only
+
+* Basic concepts 
+  * https://neo4j.com/blog/native-vs-non-native-graph-technology/
+
+* Data storage in GraphDB
+  * TB Implemented.
+  
+* Graph processing engine
+  * TB Implemented.
+
 * Algorithms used in GraphDB(~correspond with queries can be used in GraphDB)
   * https://neo4j.com/docs/graph-algorithms/current/introduction/#introduction-algorithms
+  
+  ### Belows are not directly involved
 
 * Type and properties of queries that GraphDB have
   * https://users.dcc.uchile.cl/~pbarcelo/wood.pdf
