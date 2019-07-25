@@ -14,3 +14,8 @@
 ## ML model optimization using RL
   * Device Placement Optimization with Reinforcement Learning
     * https://arxiv.org/abs/1706.04972
+
+## Combinatorial optimization and RL
+### Traveling Salesman Problem (TSP)
+  * Neural Combinatorial Optimization with Reinforcement Learning
+    * https://arxiv.org/abs/1611.09940v3
