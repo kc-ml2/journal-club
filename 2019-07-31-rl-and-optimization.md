@@ -14,8 +14,6 @@
     * https://arxiv.org/abs/1611.09940v3
   * Information, Computation, Optimization: Connecting the Dots in the Traveling Salesman Problem
     * https://www.youtube.com/watch?v=q8nQTNvCrjE
-  * Bresson - 2019 Deep geometric learning workshop @ IPAM, UCLA
-    * https://github.com/kc-ml2/ipam-2019-dgl#bresson
 
 ## ML and memory management
   * Ipek, E., Mutlu, O., Martínez, J. F., Caruana, R., Self-Optimizing Memory Controllers: A Reinforcement Learning Approach, 2008 International Symposium on Computer Architecture, Beijing, 2008, pp. 39-50. doi: 10.1109/ISCA.2008.21
