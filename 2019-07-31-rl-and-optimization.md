@@ -23,6 +23,8 @@
 ### Garbage collection
   * To Collect or Not to Collect? Machine Learning for Memory Management
     * https://www.usenix.org/conference/java-vm-02/collect-or-not-collect-machine-learning-memory-management
+  * RL for dynamic JVM
+    * http://www.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2002/Rapporter02/andreasson_eva_02041.pdf
   * Pablo Galindo Salgado - Time to take out the rubbish: garbage collector - PyCon 2019 
     * https://youtu.be/CLW5Lyc1FN8
   * Garbage Collection as a Joint Venture - A collaborative approach to reclaiming memory in heterogeneous software systems.
