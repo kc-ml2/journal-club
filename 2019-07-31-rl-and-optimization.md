@@ -28,7 +28,9 @@
   * Pablo Galindo Salgado - Time to take out the rubbish: garbage collector - PyCon 2019 
     * https://youtu.be/CLW5Lyc1FN8
   * Garbage Collection as a Joint Venture - A collaborative approach to reclaiming memory in heterogeneous software systems.
-    * https://queue.acm.org/detail.cfm?id=3325132  
+    * https://queue.acm.org/detail.cfm?id=3325132
+  * Garbage Collection Basic Introduction(Korean)
+    * https://d2.naver.com/helloworld/1329
 
 ## RDBMS Query Optimization using RL
 * https://rise.cs.berkeley.edu/blog/sql-query-optimization-meets-deep-reinforcement-learning/
