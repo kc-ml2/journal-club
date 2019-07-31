@@ -29,7 +29,7 @@
     * https://youtu.be/CLW5Lyc1FN8
   * Garbage Collection as a Joint Venture - A collaborative approach to reclaiming memory in heterogeneous software systems.
     * https://queue.acm.org/detail.cfm?id=3325132
-  * Garbage Collection Basic Introduction(Korean)
+  * JVM Garbage Collection Basic Introduction(Korean)
     * https://d2.naver.com/helloworld/1329
 
 ## RDBMS Query Optimization using RL
