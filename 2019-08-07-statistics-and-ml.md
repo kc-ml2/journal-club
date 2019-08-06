@@ -10,4 +10,5 @@
   * https://en.wikipedia.org/wiki/Statistical_manifold
 * Use of Stat/Info Geo in ML
   * http://eprints.whiterose.ac.uk/129178/1/LTTR-final-accepted.pdf
+  * http://proceedings.mlr.press/v32/suna14.pdf
   
