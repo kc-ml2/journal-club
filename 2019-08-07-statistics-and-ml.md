@@ -14,7 +14,7 @@
 * An elementary introduction to information geometry, Frank Nielsen
   * https://arxiv.org/abs/1808.08271
   * Chan's note on the review.
-    * [Information_Geometry.pdf](../files/Information_Geometry.pdf) 
+    * [Information_Geometry.pdf](files/Information_Geometry.pdf) 
     
 ## Use of Stat/Info Geo in ML
 
