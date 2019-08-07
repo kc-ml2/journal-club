@@ -10,6 +10,7 @@
 * Brief Introduction to Information Geometry
   * https://arxiv.org/abs/1410.3369
   * https://en.wikipedia.org/wiki/Statistical_manifold
+  * https://en.wikipedia.org/wiki/Information_geometry
   
 * An elementary introduction to information geometry, Frank Nielsen
   * https://arxiv.org/abs/1808.08271
