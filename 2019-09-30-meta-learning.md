@@ -2,7 +2,7 @@
 
 ### Blog
 
-(Reading the blog first helps. Then refer to papaers for further details)
+(Reading the blog first helps. Then refer to papers for further details)
 
 A overview blog on meta-learning - by Lilian Weng
 
