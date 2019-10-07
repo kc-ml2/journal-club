@@ -21,3 +21,6 @@ https://drive.google.com/file/d/1v2ciZn75mS4kAqazezn2oF5xHt7OZXIQ/view?usp=shari
 
 * Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection  
 https://arxiv.org/pdf/1708.06525.pdf
+
+* MILEPOST GCC: machine learning based research compiler
+http://gcc-ici.sourceforge.net/papers/fmtp2008.pdf
