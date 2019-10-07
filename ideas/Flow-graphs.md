@@ -18,3 +18,6 @@ https://arxiv.org/pdf/1802.04986.pdf
 * A method for estimating optimal unrolling times for nested loops  
 https://ieeexplore.ieee.org/document/645123  
 https://drive.google.com/file/d/1v2ciZn75mS4kAqazezn2oF5xHt7OZXIQ/view?usp=sharing
+
+* Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection  
+https://arxiv.org/pdf/1708.06525.pdf
