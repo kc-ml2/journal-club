@@ -4,6 +4,8 @@
     * https://arxiv.org/abs/1904.07272
   * 2011 ICML tutorial on bandits
     * https://sites.google.com/site/banditstutorial/
+  * The Contextual Bandits Problem
+    * https://youtu.be/N5x48g2sp8M
   * contextual MAB and RL?
 * Hyperband
   * https://arxiv.org/pdf/1603.06560.pdf
