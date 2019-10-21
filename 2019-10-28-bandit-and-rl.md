@@ -8,5 +8,7 @@
   * The Contextual Bandits Problem
     * https://youtu.be/N5x48g2sp8M
   * contextual MAB and RL?
+* BanditNet
+  * https://openreview.net/pdf?id=SJaP_-xAb
 * Hyperband
   * https://arxiv.org/pdf/1603.06560.pdf
