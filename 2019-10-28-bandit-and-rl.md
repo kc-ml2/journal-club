@@ -1,5 +1,6 @@
 * Multi-armed bandit (MAB)
   * https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html
+  * http://sanghyukchun.github.io/96/
   * Introduction to Multi-Armed Bandits
     * https://arxiv.org/abs/1904.07272
   * 2011 ICML tutorial on bandits
