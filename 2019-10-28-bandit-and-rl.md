@@ -1,4 +1,4 @@
-* Multi-armed bandit (MAB)
+## Multi-armed bandit (MAB)
   * https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html
   * http://sanghyukchun.github.io/96/
   * Introduction to Multi-Armed Bandits
@@ -8,6 +8,17 @@
   * The Contextual Bandits Problem
     * https://youtu.be/N5x48g2sp8M
   * contextual MAB and RL?
+
+### Application of exploration strategies in MAB to RL
+  * Gittins index
+  * Upper confidence bound
+    * https://arxiv.org/pdf/1611.04717.pdf
+  * Expected Improvement
+    * Knowledge Gradient
+  * Thompson Sampling
+    * https://arxiv.org/pdf/1602.04621.pdf
+
+### Bandit + ML
 * BanditNet
   * https://openreview.net/pdf?id=SJaP_-xAb
 * Hyperband
