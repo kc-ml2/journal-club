@@ -9,6 +9,8 @@
 
 ## Application of exploration strategies in MAB to RL
   * Gittins index
+    * RL performance comparison to Gittins (and UCB, Thompson, Random, etc.)
+    * https://arxiv.org/pdf/1611.02779.pdf
   * Upper confidence bound
     * #Exploration:A Study of Count-Based Explorationfor Deep Reinforcement Learning
       * https://arxiv.org/pdf/1611.04717.pdf
