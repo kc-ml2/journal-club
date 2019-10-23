@@ -16,7 +16,8 @@
   * Expected Improvement
     * Knowledge Gradient
   * Thompson Sampling
-    * https://arxiv.org/pdf/1602.04621.pdf
+    * Deep Exploration via Bootstrapped DQN
+      * https://arxiv.org/pdf/1602.04621.pdf
 
 ## Bandit + ML
 * BanditNet
