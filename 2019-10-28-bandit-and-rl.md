@@ -12,7 +12,8 @@
 ## Application of exploration strategies in MAB to RL
   * Gittins index
   * Upper confidence bound
-    * https://arxiv.org/pdf/1611.04717.pdf
+    * #Exploration:A Study of Count-Based Explorationfor Deep Reinforcement Learning
+      * https://arxiv.org/pdf/1611.04717.pdf
   * Expected Improvement
     * Knowledge Gradient
   * Thompson Sampling
