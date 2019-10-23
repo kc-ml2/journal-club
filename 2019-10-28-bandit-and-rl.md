@@ -7,6 +7,7 @@
     * https://sites.google.com/site/banditstutorial/
   * The Contextual Bandits Problem
     * https://youtu.be/N5x48g2sp8M
+    * https://events.csa.iisc.ac.in/LAC15/slides/robert-schapire.pdf
   * contextual MAB and RL?
 
 ### Application of exploration strategies in MAB to RL
