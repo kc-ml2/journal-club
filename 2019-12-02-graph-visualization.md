@@ -14,6 +14,7 @@
 * [XRay in LLVM](https://llvm.org/docs/XRayExample.html)
 * [Boost.org graph module](https://github.com/boostorg/graph)
 * [Cytoscape.js](https://js.cytoscape.org/)
+* [VisTrail (no longer maintained)](https://www.vistrails.org/index.php/Main_Page)
 
 ## Emden Gansner
 * [Emden Gansner - Google Scholar Citations](https://scholar.google.com/citations?user=dDLO9pYAAAAJ&hl=en)
