@@ -4,7 +4,7 @@
 ### Fully Dynamic k-Center Clustering
 * [Fully Dynamic k-Center Clustering](https://i.cs.hku.hk/~hubert/www18.pdf)
 
-####Extras
+#### Extras
 
 * [Diameter and k-Center in Sliding Windows*](https://core.ac.uk/download/pdf/62922186.pdf)
 
