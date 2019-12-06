@@ -1,7 +1,7 @@
-# Graph Visualization
+# Fully Dynamic k-Center Clustering
 
 ## Papers
-### Fully Dynamic k-Center Clustering
+### Main paper
 * [Fully Dynamic k-Center Clustering](https://i.cs.hku.hk/~hubert/www18.pdf)
 
 #### Extras
