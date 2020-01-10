@@ -9,6 +9,9 @@
 * BPR: Bayesian Personalized Ranking from Implicit Feedback
   * https://arxiv.org/abs/1205.2618
 * Visual Concepts
-  * https://interpretablevision.github.io/slide/iccv19_yuille_slide.pdf
+  * ICCV 2019 tutorial slides
+    * https://interpretablevision.github.io/slide/iccv19_yuille_slide.pdf
+  * Visual Concepts and Compositional Voting
+    * https://arxiv.org/abs/1711.04451
 * Guided Similarity Separation for Image Retrieval
   * https://papers.nips.cc/paper/8434-guided-similarity-separation-for-image-retrieval
