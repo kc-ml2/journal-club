@@ -19,4 +19,3 @@
 * [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/pdf/1706.02275.pdf)
 
 * [EMERGENT COMPLEXITY VIA MULTI-AGENT COMPETITION](https://arxiv.org/pdf/1710.03748.pdf)
-
