@@ -1,5 +1,8 @@
 # Papers
 * [AutoPhase: Compiler Phase-Ordering for High Level Synthesis with Deep Reinforcement Learning](https://arxiv.org/abs/1901.04615)  
   * [Project Report](https://drive.google.com/file/d/1ULcwaeHpUmhS46rmLWCorUgnY0jGyGBY/view?usp=sharing)
-* [A View on Deep Reinforcement Learning in System Optimization](https://arxiv.org/abs/1908.01275)
-* [NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning](https://arxiv.org/abs/1909.13639)
+* Overview
+  * [A View on Deep Reinforcement Learning in System Optimization](https://arxiv.org/abs/1908.01275)
+* SIMD optimization
+  * [NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning](https://arxiv.org/abs/1909.13639)
+  * [Using machine learning to improve automatic vectorization](https://dl.acm.org/doi/10.1145/2086696.2086729)
