@@ -6,3 +6,4 @@
 * SIMD optimization
   * [NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning](https://arxiv.org/abs/1909.13639)
   * [Using machine learning to improve automatic vectorization](https://dl.acm.org/doi/10.1145/2086696.2086729)
+    * [code2vec](https://arxiv.org/abs/1803.09473)
