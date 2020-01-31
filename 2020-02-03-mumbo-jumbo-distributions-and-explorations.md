@@ -14,9 +14,6 @@ https://arxiv.org/pdf/1605.09674.pdf
 Information-Directed Exploration for Deep Reinforcement Learning
 https://arxiv.org/abs/1812.07544
 
-Deep Reinforcement Learning with Risk-Seeking Exploration
-https://link.springer.com/chapter/10.1007/978-3-319-97628-0_17
-
 Variational Deep Q Network
 https://arxiv.org/abs/1711.11225
 
@@ -29,9 +26,8 @@ https://arxiv.org/pdf/1810.01176.pdf
 VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
 https://arxiv.org/pdf/1910.14351.pdf
 
-Noisy Networks for Exploration
-https://arxiv.org/abs/1706.10295
-
+Sample-Based Distributional Policy Gradient
+https://arxiv.org/pdf/2001.02652.pdf
 
 ---
 ### Very important and need to read
@@ -43,9 +39,6 @@ https://arxiv.org/pdf/1704.04651.pdf
 
 [WT]Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
 https://arxiv.org/pdf/1801.01290.pdf
-
-Distributional Advantage Actor-Critic
-https://arxiv.org/pdf/1806.06914.pdf
 
 ---
 ### Need to cite but not need to read
@@ -74,9 +67,21 @@ https://arxiv.org/pdf/1502.05477.pdf
 EXPLORATION BY RANDOM NETWORK DISTILLATION
 https://arxiv.org/pdf/1810.12894.pdf
 
+Curiosity-Bottleneck: Exploration by Distilling Task-Specific Novelty
+http://proceedings.mlr.press/v97/kim19c/kim19c.pdf
+
 ---
 ### May not need to cite
 
 MIME: Mutual Information Minimisation Exploration
 https://arxiv.org/pdf/2001.05636.pdf
+
+Distributional Advantage Actor-Critic
+https://arxiv.org/pdf/1806.06914.pdf
+
+Deep Reinforcement Learning with Risk-Seeking Exploration
+https://link.springer.com/chapter/10.1007/978-3-319-97628-0_17
+
+Noisy Networks for Exploration
+https://arxiv.org/abs/1706.10295
 
