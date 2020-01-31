@@ -11,9 +11,6 @@ https://arxiv.org/pdf/1810.09967.pdf
 VIME: Variational Information Maximizing Exploration
 https://arxiv.org/pdf/1605.09674.pdf
 
-MIME: Mutual Information Minimisation Exploration
-https://arxiv.org/pdf/2001.05636.pdf
-
 Information-Directed Exploration for Deep Reinforcement Learning
 https://arxiv.org/abs/1812.07544
 
@@ -37,7 +34,7 @@ https://arxiv.org/abs/1706.10295
 
 
 ---
-### Very important and need to read 
+### Very important and need to read
 [WT]SOFT Q-LEARNING WITH MUTUAL-INFORMATION REGULARIZATION
 https://pdfs.semanticscholar.org/3999/5a05908b23249025de5a6c3c439d0dd33d9d.pdf
 
@@ -46,6 +43,9 @@ https://arxiv.org/pdf/1704.04651.pdf
 
 [WT]Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
 https://arxiv.org/pdf/1801.01290.pdf
+
+Distributional Advantage Actor-Critic
+https://arxiv.org/pdf/1806.06914.pdf
 
 ---
 ### Need to cite but not need to read
@@ -73,4 +73,10 @@ https://arxiv.org/pdf/1502.05477.pdf
 
 EXPLORATION BY RANDOM NETWORK DISTILLATION
 https://arxiv.org/pdf/1810.12894.pdf
+
+---
+### May not need to cite
+
+MIME: Mutual Information Minimisation Exploration
+https://arxiv.org/pdf/2001.05636.pdf
 
