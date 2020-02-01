@@ -8,7 +8,7 @@ https://arxiv.org/pdf/1606.02647.pdf
 Reconciling λ-Returns with Experience Replay
 https://arxiv.org/pdf/1810.09967.pdf
 
-VIME: Variational Information Maximizing Exploration
+[CY]VIME: Variational Information Maximizing Exploration
 https://arxiv.org/pdf/1605.09674.pdf
 
 Information-Directed Exploration for Deep Reinforcement Learning
