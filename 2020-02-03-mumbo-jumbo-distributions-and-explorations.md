@@ -26,7 +26,7 @@ https://arxiv.org/pdf/1810.01176.pdf
 VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
 https://arxiv.org/pdf/1910.14351.pdf
 
-Sample-Based Distributional Policy Gradient
+[CY]Sample-Based Distributional Policy Gradient
 https://arxiv.org/pdf/2001.02652.pdf
 
 ---
