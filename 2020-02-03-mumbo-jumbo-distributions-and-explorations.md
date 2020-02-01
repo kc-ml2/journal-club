@@ -20,7 +20,7 @@ https://arxiv.org/abs/1711.11225
 Information Maximizing Exploration with a Latent Dynamics Model
 https://arxiv.org/abs/1804.01238
 
-EMI: Exploration with Mutual Information
+[JM]EMI: Exploration with Mutual Information
 https://arxiv.org/pdf/1810.01176.pdf
 
 VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
