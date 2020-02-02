@@ -23,7 +23,7 @@ https://arxiv.org/abs/1804.01238
 [JM]EMI: Exploration with Mutual Information
 https://arxiv.org/pdf/1810.01176.pdf
 
-VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
+[SY]VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
 https://arxiv.org/pdf/1910.14351.pdf
 
 [CY]Sample-Based Distributional Policy Gradient
