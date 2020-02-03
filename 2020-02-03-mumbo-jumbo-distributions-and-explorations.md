@@ -17,7 +17,7 @@ https://arxiv.org/abs/1812.07544
 Variational Deep Q Network
 https://arxiv.org/abs/1711.11225
 
-Information Maximizing Exploration with a Latent Dynamics Model
+[JY]Information Maximizing Exploration with a Latent Dynamics Model
 https://arxiv.org/abs/1804.01238
 
 [JM]EMI: Exploration with Mutual Information
