@@ -11,7 +11,7 @@ https://arxiv.org/pdf/1810.09967.pdf
 [CY]VIME: Variational Information Maximizing Exploration
 https://arxiv.org/pdf/1605.09674.pdf
 
-Information-Directed Exploration for Deep Reinforcement Learning
+[WT]Information-Directed Exploration for Deep Reinforcement Learning
 https://arxiv.org/abs/1812.07544
 
 Variational Deep Q Network
