@@ -2,31 +2,31 @@
 ---
 #### Need to read
 
-[WT]Safe and efficient off-policy reinforcement learning
+[WT] Safe and efficient off-policy reinforcement learning
 https://arxiv.org/pdf/1606.02647.pdf
 
 Reconciling λ-Returns with Experience Replay
 https://arxiv.org/pdf/1810.09967.pdf
 
-[CY]VIME: Variational Information Maximizing Exploration
+[CY] VIME: Variational Information Maximizing Exploration
 https://arxiv.org/pdf/1605.09674.pdf
 
-[WT]Information-Directed Exploration for Deep Reinforcement Learning
+[WT] Information-Directed Exploration for Deep Reinforcement Learning
 https://arxiv.org/abs/1812.07544
 
 Variational Deep Q Network
 https://arxiv.org/abs/1711.11225
 
-[JY]Information Maximizing Exploration with a Latent Dynamics Model
+[JY] Information Maximizing Exploration with a Latent Dynamics Model
 https://arxiv.org/abs/1804.01238
 
-[JM]EMI: Exploration with Mutual Information
+[JM] EMI: Exploration with Mutual Information
 https://arxiv.org/pdf/1810.01176.pdf
 
-[SY]VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
+[SY] VASE: Variational Assorted Surprise Exploration for Reinforcement Learning
 https://arxiv.org/pdf/1910.14351.pdf
 
-[CY]Sample-Based Distributional Policy Gradient
+[CY] Sample-Based Distributional Policy Gradient
 https://arxiv.org/pdf/2001.02652.pdf
 
 ---
