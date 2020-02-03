@@ -5,7 +5,7 @@
 [WT] Safe and efficient off-policy reinforcement learning
 https://arxiv.org/pdf/1606.02647.pdf
 
-Reconciling λ-Returns with Experience Replay
+[YH] Reconciling λ-Returns with Experience Replay
 https://arxiv.org/pdf/1810.09967.pdf
 
 [CY] VIME: Variational Information Maximizing Exploration
@@ -14,7 +14,7 @@ https://arxiv.org/pdf/1605.09674.pdf
 [WT] Information-Directed Exploration for Deep Reinforcement Learning
 https://arxiv.org/abs/1812.07544
 
-Variational Deep Q Network
+[YH] Variational Deep Q Network
 https://arxiv.org/abs/1711.11225
 
 [JY] Information Maximizing Exploration with a Latent Dynamics Model
