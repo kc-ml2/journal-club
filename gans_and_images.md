@@ -14,7 +14,7 @@
   * Sobolev GAN: https://arxiv.org/abs/1711.04894
   * LSGAN: https://arxiv.org/abs/1701.06264
   
-* Miscellaneous
+* (Optional) Miscellaneous
   * InfoGAN: https://arxiv.org/abs/1606.03657
   * https://arxiv.org/abs/1810.11447
   
