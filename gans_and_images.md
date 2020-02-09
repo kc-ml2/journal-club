@@ -12,6 +12,7 @@
   * GAN: https://arxiv.org/abs/1406.2661
   * Conditional GAN: https://arxiv.org/abs/1411.1784
   * WGAN: https://arxiv.org/abs/1701.07875
+  * WWGAN: http://proceedings.mlr.press/v97/dukler19a/dukler19a.pdf
 
 * GAN Theories
   * f-GAN: https://arxiv.org/abs/1606.00709
