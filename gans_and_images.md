@@ -16,12 +16,12 @@
 * GAN Theories
   * f-GAN: https://arxiv.org/abs/1606.00709
   * Sobolev GAN: https://arxiv.org/abs/1711.04894
-  * LSGAN: https://arxiv.org/abs/1701.06264
   * WWGAN: http://proceedings.mlr.press/v97/dukler19a/dukler19a.pdf
   
 * (Optional) Miscellaneous
   * InfoGAN: https://arxiv.org/abs/1606.03657
   * Extension of Optimal Transport: https://arxiv.org/abs/1810.11447
+  * LSGAN: https://arxiv.org/abs/1701.06264
   
 * (Optional) More About Metrics and Divergences in Probability Metric
   * IPM & Divergence: https://arxiv.org/pdf/0901.2698.pdf
