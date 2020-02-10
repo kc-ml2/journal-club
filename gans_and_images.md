@@ -8,7 +8,7 @@
 * Review Github
   * https://github.com/hindupuravinash/the-gan-zoo
 
-* Famous GAN
+* Well-Known GANs
   * GAN: https://arxiv.org/abs/1406.2661
   * Conditional GAN: https://arxiv.org/abs/1411.1784
   * WGAN: https://arxiv.org/abs/1701.07875
