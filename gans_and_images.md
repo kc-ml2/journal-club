@@ -24,10 +24,10 @@
   * Extension of Optimal Transport: https://arxiv.org/abs/1810.11447
   
 * (Optional) More About Metrics and Divergences in Probability Metric
-  * https://arxiv.org/pdf/0901.2698.pdf
-  * https://arxiv.org/pdf/1508.07941.pdf
-  * https://www.jstor.org/stable/1428011?seq=1
-  * https://mathoverflow.net/questions/277567/manifold-of-probability-measures-connections-between-two-types-of-metrics
+  * IPM & Divergence: https://arxiv.org/pdf/0901.2698.pdf
+  * Combining IPM and Divergence: https://arxiv.org/pdf/1508.07941.pdf
+  * IPM: https://www.jstor.org/stable/1428011?seq=1
+  * Concepts of Optimal Transport: https://mathoverflow.net/questions/277567/manifold-of-probability-measures-connections-between-two-types-of-metrics
 
 
 ## Visual Vocabulary
