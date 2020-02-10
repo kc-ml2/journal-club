@@ -12,12 +12,12 @@
   * GAN: https://arxiv.org/abs/1406.2661
   * Conditional GAN: https://arxiv.org/abs/1411.1784
   * WGAN: https://arxiv.org/abs/1701.07875
-  * WWGAN: http://proceedings.mlr.press/v97/dukler19a/dukler19a.pdf
 
 * GAN Theories
   * f-GAN: https://arxiv.org/abs/1606.00709
   * Sobolev GAN: https://arxiv.org/abs/1711.04894
   * LSGAN: https://arxiv.org/abs/1701.06264
+  * WWGAN: http://proceedings.mlr.press/v97/dukler19a/dukler19a.pdf
   
 * (Optional) Miscellaneous
   * InfoGAN: https://arxiv.org/abs/1606.03657
