@@ -3,6 +3,7 @@
 * Anomaly Detection Using Autoencoder
   * https://stat.snu.ac.kr/mcp/Anomaly.pdf
   * WAE: https://arxiv.org/abs/1711.01558
+  * RSR Layer: https://openreview.net/forum?id=rylb3eBtwr
   
   * Optional
     * DAGMM: https://sites.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf
