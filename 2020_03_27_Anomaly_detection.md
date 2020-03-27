@@ -10,7 +10,7 @@
     * ALAD: https://arxiv.org/abs/1812.02288
     * Deep SVDD: http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf
 
-* Locally Sensitive Hashing
+* Locality Sensitive Hashing
   * https://www.sciencedirect.com/science/article/abs/pii/S0031320315004380
   * https://proceedings.mlsys.org/papers/2020/105
   
