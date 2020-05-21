@@ -49,3 +49,5 @@
 * Deep Learning For Symbolic Mathematics
   * https://iclr.cc/virtual_2020/poster_S1eZYeHFDS.html
   
+* FOOLING DETECTION ALONE IS NOT ENOUGH: ADVERSARIAL ATTACK AGAINST MULTIPLE OBJECT TRACKING  
+  * https://iclr.cc/virtual_2020/poster_rJl31TNYPr.html
