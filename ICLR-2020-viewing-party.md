@@ -31,6 +31,12 @@
 * A CRITICAL ANALYSIS OF SELF-SUPERVISION, OR WHAT WE CAN LEARN FROM A SINGLE IMAGE
   * https://iclr.cc/virtual_2020/poster_B1esx6EYvr.html
   
+* Self-labelling via simultaneous clustering and representation learning
+  * https://iclr.cc/virtual_2020/poster_Hyx-jyBFPr.html
+  
+* Adversarially Robust Representations with Smooth Encoders
+  * https://iclr.cc/virtual_2020/poster_H1gfFaEYDS.html
+  
 * Neural Text Generation With Unlikelihood Training
   * https://iclr.cc/virtual_2020/poster_SJeYe0NtvH.html
 
