@@ -42,4 +42,10 @@
 
 * Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning
   * https://iclr.cc/virtual_2020/poster_rygixkHKDH.html
+
+* Intrinsically Motivated Discovery of Diverse Patterns in Self-Organizing Systems
+  * https://iclr.cc/virtual_2020/poster_rkg6sJHYDr.html
+  
+* Deep Learning For Symbolic Mathematics
+  * https://iclr.cc/virtual_2020/poster_S1eZYeHFDS.html
   
