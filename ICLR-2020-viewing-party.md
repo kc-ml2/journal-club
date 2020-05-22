@@ -1,4 +1,4 @@
-## ICLR_202 accepted papers
+## ICLR_2020 accepted papers
 * https://openreview.net/group?id=ICLR.cc/2020/Conference
 * https://iclr.cc/virtual_2020/papers.html?filter=titles&search=
 
