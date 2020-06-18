@@ -15,3 +15,7 @@
 
 #### 딥러닝(CycleGAN)을 이용해 Fortnite 를 PUBG 로 바꾸기
 * https://keraskorea.github.io/posts/2018-10-24-%EB%94%A5%EB%9F%AC%EB%8B%9D(CycleGAN)%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20Fornite%20%EB%A5%BC%20PUBG%20%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0/
+
+#### state-of-the-art conventional approac
+* [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
+* https://www.youtube.com/watch?v=z-2q1eMAwps
