@@ -1,5 +1,7 @@
 ## 벨펑지용
 
-[A Geometric Perspective on Optimal Representations for Reinforcement Learning](http://papers.nips.cc/paper/8687-a-geometric-perspective-on-optimal-representations-for-reinforcement-learning)
+* [A Geometric Perspective on Optimal Representations for Reinforcement Learning](http://papers.nips.cc/paper/8687-a-geometric-perspective-on-optimal-representations-for-reinforcement-learning)
 
-* https://arxiv.org/abs/2006.02243
+* [The Value-Improvement Path: Towards Better Representations for Reinforcement Learning](https://arxiv.org/abs/2006.02243)
+
+
