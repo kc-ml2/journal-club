@@ -59,6 +59,7 @@ Technologies](https://www.080910t.com/downloads/AI%20Chip%202018%20EN.pdf)
   - [TensorDIMM](https://www.notion.so/woojinnn/TensorDIMM-A-Practical-Near-Memory-Processing-Architecture-for-Embeddings-and-Tensor-Operations-in--b720b103624143a5813e256953c7947d)
 <br>
 <br>
+
 # Discussion
 - CNN 말고 다른것들...??
   - 찬연님이랑 얘기했을 때, RL, GNN 등등...
