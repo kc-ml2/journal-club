@@ -39,7 +39,7 @@
   - https://arxiv.org/pdf/1612.07625.pdf
 - Youtube channel; EEMS Group - PI:Vivienne Sze
   - https://www.youtube.com/channel/UC8cviSAQrtD8IpzXdE6dyug
-  - 
+  - ISCA tutorial: https://accelergy.mit.edu/tutorial.html
 - IC Design Education Center - IDEC
   - 김주영 교수님, 머신러닝을 위한 하드웨어 가속 (1~3)
     - 이번 저널클럽 준비의 MVP!!!
