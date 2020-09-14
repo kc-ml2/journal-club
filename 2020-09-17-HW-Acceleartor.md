@@ -28,6 +28,8 @@
 - ### **EIE**: Efficient Inference Engine on Compressed Deep Neural Network
   - https://arxiv.org/abs/1602.01528
   - Song Han 교수님 => 시리즈물인듯?
+  - GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning
+    - https://arxiv.org/abs/2005.00406
 - ### 느낀점:
   - **Memory Access** is important....!!!!
 
