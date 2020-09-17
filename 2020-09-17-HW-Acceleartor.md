@@ -69,7 +69,7 @@ Technologies](https://www.080910t.com/downloads/AI%20Chip%202018%20EN.pdf)
   - 다른 분야에서는 어떤 부분이 Bottleneck? How?
   - 주제는 어떻게 찾는 건가요???
   
-  +) 수정
+  +) 수정:   
     GNN의 경우, accelerator 관련 논문이 많이 나온다
     - EnGN: https://arxiv.org/pdf/1909.00155.pdf
     - https://arxiv.org/pdf/2007.13828.pdf
