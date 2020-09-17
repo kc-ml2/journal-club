@@ -71,9 +71,9 @@ Technologies](https://www.080910t.com/downloads/AI%20Chip%202018%20EN.pdf)
   
   +) 수정
     GNN의 경우, accelerator 관련 논문이 많이 나온다
-    EnGN: https://arxiv.org/pdf/1909.00155.pdf
-    https://arxiv.org/pdf/2007.13828.pdf
-    https://rakeshk.crhc.illinois.edu/dac20.pdf
-    https://sing.stanford.edu/site/publications/greta-recoml20.pdf
-    http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf
-    등등등...
+    - EnGN: https://arxiv.org/pdf/1909.00155.pdf
+    - https://arxiv.org/pdf/2007.13828.pdf
+    - https://rakeshk.crhc.illinois.edu/dac20.pdf
+    - https://sing.stanford.edu/site/publications/greta-recoml20.pdf
+    - http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf
+    - 등등등...
