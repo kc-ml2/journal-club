@@ -68,3 +68,12 @@ Technologies](https://www.080910t.com/downloads/AI%20Chip%202018%20EN.pdf)
   - 위에 논문들 대부분 AlexNet, VGG 이런애들로 테스트 하길래 다른 분야에서도 잘 먹히는 것인가???
   - 다른 분야에서는 어떤 부분이 Bottleneck? How?
   - 주제는 어떻게 찾는 건가요???
+  
+  +) 수정
+    GNN의 경우, accelerator 관련 논문이 많이 나온다
+    EnGN: https://arxiv.org/pdf/1909.00155.pdf
+    https://arxiv.org/pdf/2007.13828.pdf
+    https://rakeshk.crhc.illinois.edu/dac20.pdf
+    https://sing.stanford.edu/site/publications/greta-recoml20.pdf
+    http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf
+    등등등...
