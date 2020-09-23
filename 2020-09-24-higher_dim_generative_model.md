@@ -6,4 +6,5 @@
 * Introduction to Integral Probability Metrics (IPM)
   * https://arxiv.org/abs/0901.2698
 * Barycenter of Wasserstein metric
-  * To be implemented...
+  * https://arxiv.org/pdf/1310.4375.pdf
+  * Haven't read yet. Can be changed after reading it if it seems irrelevant.
