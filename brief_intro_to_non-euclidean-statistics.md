@@ -17,7 +17,7 @@
     * https://www.frontiersin.org/articles/10.3389/fspas.2020.00011/full
   * Computational Anatomy
 
-* Some papers
+* Some papers (Supplementary)
   * FDA
     * http://anson.ucdavis.edu/~mueller/fdarev1.pdf
     * http://anson.ucdavis.edu/~mueller/pmdens.pdf
