@@ -14,3 +14,7 @@
   * https://arxiv.org/abs/1902.02992
 * Toroidal AutoEncoder
   * https://arxiv.org/abs/1903.12286
+* Learning Weighted Submanifolds with Variational Autoencoders and Riemannian Variational Autoencoders
+  * https://openaccess.thecvf.com/content_CVPR_2020/papers/Miolane_Learning_Weighted_Submanifolds_With_Variational_Autoencoders_and_Riemannian_Variational_Autoencoders_CVPR_2020_paper.pdf
+* Mixed-curvature Variational Autoencoders
+  * https://arxiv.org/pdf/1911.08411.pdf
