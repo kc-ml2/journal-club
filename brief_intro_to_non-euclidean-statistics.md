@@ -4,7 +4,7 @@
   * Functional Data Analysis
   * Geometric Statistics
     * Directional Statistics
-      * https://en.wikipedia.org/wiki/Directional_statistics#Circular_and_higher-dimensional_distributions
+      * https://en.wikipedia.org/wiki/Directional_statistics
 
 * Application
   * Astrostatistics
