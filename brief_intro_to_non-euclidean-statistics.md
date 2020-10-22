@@ -16,6 +16,7 @@
   * Astrostatistics
     * https://www.frontiersin.org/articles/10.3389/fspas.2020.00011/full
   * Computational Anatomy
+    * Statistics in Lie Group
 
 * Some papers (Supplementary)
   * FDA
@@ -30,3 +31,5 @@
   * Astrostat (Not non-euclidean)
     * A unified framework for constructing, tuning and assessing photometric redshift density estimates in a selection bias setting: https://arxiv.org/pdf/1703.09242.pdf
     * Comparing Distributions of Galaxy Morphologies: http://www.stat.cmu.edu/tr/galaxy-morphologies.pdf
+  * Statistics in lie Group
+    * Computing Bi-Invariant Pseudo-Metrics on Lie Groups for Consistent Statistics: https://hal.inria.fr/hal-01133922
