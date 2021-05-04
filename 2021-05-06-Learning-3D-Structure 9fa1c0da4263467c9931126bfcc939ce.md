@@ -9,7 +9,7 @@
 - Unlike Image, 3D data has various representations.
     - There are diverse NN for 3D data
 
-        ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/275239b0-ed05-43b5-87ed-98202f01f156/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/275239b0-ed05-43b5-87ed-98202f01f156/Untitled.png)
 
         - Voxels
             - Using Octree : O-CNN
@@ -26,7 +26,7 @@
 - CAD model : Primitives + Mesh(Rendered)
     - Primitive examples
 
-    ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%201.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%201.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3333d189-6044-47bf-b30e-3b1cfe5f84fe/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3333d189-6044-47bf-b30e-3b1cfe5f84fe/Untitled.png)
 
 - Multi-View Camera, etc.
 
@@ -40,16 +40,15 @@
 
         → CAD models
 
-        ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%202.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%202.png)
-
-        ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%203.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%203.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798fb5fe-87cd-4f0a-955c-8e4930329042/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798fb5fe-87cd-4f0a-955c-8e4930329042/Untitled.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f30febc-f8d7-4b10-a5c6-97c9a6d64e47/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f30febc-f8d7-4b10-a5c6-97c9a6d64e47/Untitled.png) 
 
 - ShapeNet classification
     - Get input 3D model and predict the true label
 - ShapeNet segmentation
     - Get input 3D model and segment its parts
 
-        ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%204.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%204.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f827424-519d-485f-aafd-2b9445d80c34/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f827424-519d-485f-aafd-2b9445d80c34/Untitled.png)
 
 → ModelNet40 : [https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40)
 
@@ -64,15 +63,14 @@ PointNet(2016) : [https://arxiv.org/abs/1612.00593](https://arxiv.org/abs/1612.0
 - Learning Point Cloud input
     - do classification and segmentation
 
-        ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%205.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%205.png)
-
-        ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%206.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%206.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8696cd6-c735-429a-b867-4db759a0abc8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8696cd6-c735-429a-b867-4db759a0abc8/Untitled.png)
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1b423cf-1d30-48ca-9afa-8755ce9982be/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1b423cf-1d30-48ca-9afa-8755ce9982be/Untitled.png)
 
 <PointNet++>
 
 - Using Hierarchy to better represenetation
 
-    ![2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%207.png](2021-05-06-Learning-3D-Structure%209fa1c0da4263467c9931126bfcc939ce/Untitled%207.png)
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f623b0e-fe97-4bcd-8dfd-4e535d72e114/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f623b0e-fe97-4bcd-8dfd-4e535d72e114/Untitled.png)
 
 <A Point Set Generation Network for 3D object reconstruction from a Single Image>
 
