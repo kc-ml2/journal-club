@@ -21,7 +21,7 @@
         - Point
             - PointNet + PointNet++
 
-<How gets 3D-data>
+<Method for getting 3D-data>
 
 - LiDAR : Point Cloud
 - CAD model : Primitives + Mesh(Rendered)
