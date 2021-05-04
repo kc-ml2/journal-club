@@ -9,8 +9,8 @@
 - Unlike Image, 3D data has various representations.
     - There are diverse NN for 3D data
 
-        ![Untitled 1](https://user-images.githubusercontent.com/65122489/116973492-9dd7d780-acf7-11eb-801b-68321f8b00bb.png)
-
+        
+        ![Untitled](https://user-images.githubusercontent.com/65122489/116973546-adefb700-acf7-11eb-8bb4-ac56c04f2bd3.png)
 
         - Voxels
             - Using Octree : O-CNN
@@ -27,7 +27,7 @@
 - CAD model : Primitives + Mesh(Rendered)
     - Primitive examples
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3333d189-6044-47bf-b30e-3b1cfe5f84fe/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3333d189-6044-47bf-b30e-3b1cfe5f84fe/Untitled.png)
+    ![Untitled 1](https://user-images.githubusercontent.com/65122489/116973492-9dd7d780-acf7-11eb-801b-68321f8b00bb.png)
 
 - Multi-View Camera, etc.
 
@@ -41,15 +41,15 @@
 
         → CAD models
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798fb5fe-87cd-4f0a-955c-8e4930329042/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798fb5fe-87cd-4f0a-955c-8e4930329042/Untitled.png)
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f30febc-f8d7-4b10-a5c6-97c9a6d64e47/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f30febc-f8d7-4b10-a5c6-97c9a6d64e47/Untitled.png) 
+        ![Untitled 2](https://user-images.githubusercontent.com/65122489/116973496-9fa19b00-acf7-11eb-9929-ef70c6bf82f7.png)
+        ![Untitled 3](https://user-images.githubusercontent.com/65122489/116973505-a203f500-acf7-11eb-8989-85b1865e6f35.png)
 
 - ShapeNet classification
     - Get input 3D model and predict the true label
 - ShapeNet segmentation
     - Get input 3D model and segment its parts
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f827424-519d-485f-aafd-2b9445d80c34/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f827424-519d-485f-aafd-2b9445d80c34/Untitled.png)
+        ![Untitled 4](https://user-images.githubusercontent.com/65122489/116973508-a29c8b80-acf7-11eb-8294-f051dcc71fae.png)
 
 → ModelNet40 : [https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40)
 
@@ -64,14 +64,15 @@ PointNet(2016) : [https://arxiv.org/abs/1612.00593](https://arxiv.org/abs/1612.0
 - Learning Point Cloud input
     - do classification and segmentation
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8696cd6-c735-429a-b867-4db759a0abc8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8696cd6-c735-429a-b867-4db759a0abc8/Untitled.png)
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1b423cf-1d30-48ca-9afa-8755ce9982be/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1b423cf-1d30-48ca-9afa-8755ce9982be/Untitled.png)
+        
+        ![Untitled 5](https://user-images.githubusercontent.com/65122489/116973518-a6301280-acf7-11eb-90c2-3da6cf329383.png)
+        ![Untitled 6](https://user-images.githubusercontent.com/65122489/116973523-a7f9d600-acf7-11eb-9e0e-736a324e62c0.png)
 
 <PointNet++>
 
 - Using Hierarchy to better represenetation
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f623b0e-fe97-4bcd-8dfd-4e535d72e114/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f623b0e-fe97-4bcd-8dfd-4e535d72e114/Untitled.png)
+    ![Untitled 7](https://user-images.githubusercontent.com/65122489/116973530-a9c39980-acf7-11eb-8ee2-b46578282889.png)
 
 <A Point Set Generation Network for 3D object reconstruction from a Single Image>
 
