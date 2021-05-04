@@ -9,7 +9,8 @@
 - Unlike Image, 3D data has various representations.
     - There are diverse NN for 3D data
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/275239b0-ed05-43b5-87ed-98202f01f156/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/275239b0-ed05-43b5-87ed-98202f01f156/Untitled.png)
+        ![Untitled 1](https://user-images.githubusercontent.com/65122489/116973492-9dd7d780-acf7-11eb-801b-68321f8b00bb.png)
+
 
         - Voxels
             - Using Octree : O-CNN
